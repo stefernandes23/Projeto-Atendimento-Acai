@@ -3,7 +3,7 @@
 
 
 
-## <p align="center">!PROJETO FALA COMIGO!
+## <p align="center">PROJETO FALA COMIGO
 </p>
 
 ## <p align="center">AÇAÍ DA RESI
